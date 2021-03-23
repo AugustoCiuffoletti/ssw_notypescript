@@ -1,6 +1,4 @@
 class miaClasse {
-    f1;
-    f2;
     constructor( a, b ) {
         this.f1=a,
         this.f2=b
